@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "ef3ad01d-faa2-4542-bef8-3ae856d4c404",
+      "nom": "admin",
+      "prenom": "Utilisateur",
+      "email": "admin@medmola.cd",
+      "telephone": "+243000000000",
+      "salt": "8e5b81afa24888ade34e2d755cd51229",
+      "passHash": "48144aa3854c764865578621b643d185ce8b7b17cdbf4b559621323b81a0e5b1739576df94b9578670f7a062dfa19387aff18d16e7974546b2cdc9863e8375b9",
+      "role": "admin",
+      "faculte": "UNIKIN — Faculté de Médecine",
+      "promotion": "",
+      "bloque": false,
+      "doitChangerMotDePasse": false,
+      "createdAt": 1794224841938,
+      "derniereConnexion": 1794224852160
+    }
+  ],
+  "sessions": [],
+  "conversations": [],
+  "messages": [],
+  "chat": [],
+  "announcements": [],
+  "progress": {},
+  "attempts": [],
+  "resets": [],
+  "meta": {
+    "seq": 0,
+    "createdAt": 1794224841890
+  }
+}
